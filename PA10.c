@@ -1,3 +1,5 @@
+//Game Of Life
+
 #include <stdio.h>
 #define GRIDSIZE 20
 void clearGrid(int(*grid)[GRIDSIZE]) {//grid 이차원 배열 0으로 초기화
